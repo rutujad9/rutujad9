@@ -111,6 +111,20 @@ https://github.com/rutujad9/banking-devops-pipeline
 
 ---
 
+## 📊 GitHub Stats
+
+![Rutuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutujad9&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujad9&layout=compact)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rutujad9&theme=github)
+
+---
+
 ## 📚 Currently Learning
 
 • Advanced LLM applications
@@ -120,6 +134,8 @@ https://github.com/rutujad9/banking-devops-pipeline
 • Cloud deployment of AI services
 
 ---
+
+
 ## 📫 Connect With Me
 
 LinkedIn:
