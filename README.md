@@ -51,7 +51,9 @@ Pandas • NumPy • Matplotlib
 A fully local **Retrieval-Augmented Generation** system for querying PDF documents.
 
 • 100% Top-1 retrieval accuracy on evaluation queries
+
 • ~86% latency reduction through caching optimization
+
 • CrossEncoder reranking for improved retrieval relevance
 
 Repo:
@@ -64,6 +66,7 @@ https://github.com/rutujad9/local-rag-document-assistant
 Data analysis and NLP project exploring **customer sentiment in Amazon reviews.**
 
 • Sentiment analysis pipeline
+
 • Exploratory data analysis and visualization
 
 Repo:
@@ -76,7 +79,9 @@ https://github.com/rutujad9/amazon-product-reviews-analysis
 Backend banking service built with **FastAPI.**
 
 • REST API for account management and transactions
+
 • Request validation with Pydantic models
+
 • Automatic Swagger API documentation
 
 Repo:
@@ -89,6 +94,7 @@ https://github.com/rutujad9/fastapi-banking-api
 CI/CD pipeline for automating application deployment.
 
 • Docker containerization
+
 • Automated build and deployment workflow
 
 Repo:
@@ -99,7 +105,9 @@ https://github.com/rutujad9/banking-devops-pipeline
 ## 📚 Currently Learning
 
 • Advanced LLM applications
+
 • Scalable AI system design
+
 • Cloud deployment of AI services
 
 ---
