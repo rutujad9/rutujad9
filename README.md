@@ -61,7 +61,7 @@ A fully local **Retrieval-Augmented Generation** system for querying PDF documen
 
 • **100%** Top-1 and Top-3  retrieval accuracy on evaluation queries
 
-• **~86.29%** latency reduction through caching optimization
+• **86.29%** latency reduction through caching optimization
 
 • CrossEncoder reranking for improved retrieval relevance
 
