@@ -42,7 +42,7 @@ Pandas • NumPy • Matplotlib
 
 ## 🚀 Featured Projects
 
-# 📄 Local RAG Document Assistant
+## 📄 Local RAG Document Assistant
 
 A fully local **Retrieval-Augmented Generation** system for querying PDF documents.
 
