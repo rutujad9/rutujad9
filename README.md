@@ -59,9 +59,9 @@ Pandas • NumPy • Matplotlib
 
 A fully local **Retrieval-Augmented Generation** system for querying PDF documents.
 
-• 100% Top-1 retrieval accuracy on evaluation queries
+• **100%** Top-1 and Top-3  retrieval accuracy on evaluation queries
 
-• ~86% latency reduction through caching optimization
+• **~86%** latency reduction through caching optimization
 
 • CrossEncoder reranking for improved retrieval relevance
 
