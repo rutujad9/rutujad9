@@ -18,7 +18,7 @@ I enjoy building **LLM applications, scalable APIs, and data-driven systems.**
 
 ## 🛠 Tech Stack
 
-# Languages
+## Languages
 
 Python • SQL
 
