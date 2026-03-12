@@ -22,19 +22,19 @@ I enjoy building **LLM applications, scalable APIs, and data-driven systems.**
 
 Python • SQL
 
-# AI / Machine Learning
+## AI / Machine Learning
 
 LangChain • HuggingFace • Sentence Transformers • ChromaDB
 
-# Backend
+## Backend
 
 FastAPI • REST APIs
 
-# DevOps
+## DevOps
 
 Docker • CI/CD • GitHub Actions
 
-# Data Analysis
+## Data Analysis
 
 Pandas • NumPy • Matplotlib
 
