@@ -72,11 +72,11 @@ https://github.com/rutujad9/local-rag-document-assistant
 
 ## 📊 Amazon Product Reviews Analysis
 
-Data analysis and NLP project exploring **customer sentiment in Amazon reviews.**
+Large-scale NLP project analyzing **500k+ Amazon reviews**.
 
-• Sentiment analysis pipeline
+• Sentiment prediction model with **84% accuracy**  
 
-• Exploratory data analysis and visualization
+• Rating–text discrepancy analysis  
 
 Repo:
 https://github.com/rutujad9/amazon-product-reviews-analysis
