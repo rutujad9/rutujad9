@@ -9,9 +9,13 @@ I enjoy building **LLM applications, scalable APIs, and data-driven systems.**
 ## 🧠 Interests
 
 • Retrieval-Augmented Generation (RAG)
+
 • Large Language Model Systems
+
 • Backend API Development
+
 • DevOps & CI/CD Pipelines
+
 • Data Analysis & NLP
 
 ---
