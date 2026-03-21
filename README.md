@@ -102,9 +102,12 @@ https://github.com/rutujad9/fastapi-banking-api
 
 CI/CD pipeline for automating application deployment.
 
-• Docker containerization
+• Implemented a **CI pipeline using Jenkins** for automated build and testing
 
-• Automated build and deployment workflow
+• Integrated **JUnit for testing, PIT for mutation testing, and SpotBugs for static analysis**
+
+• Structured pipeline workflows for **build, test, and reporting, using GitHub for version control and collaboration**
+ 
 
 Repo:
 https://github.com/rutujad9/banking-devops-pipeline
@@ -124,7 +127,7 @@ https://github.com/rutujad9/banking-devops-pipeline
 ## 📫 Connect With Me
 
 LinkedIn:
-https://linkedin.com/in/rutuja-rd
+linkedin.com/in/rutuja-rd
 
 GitHub:
-https://github.com/rutujad9
+github.com/rutujad9
