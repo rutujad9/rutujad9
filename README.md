@@ -127,7 +127,7 @@ https://github.com/rutujad9/banking-devops-pipeline
 ## 📫 Connect With Me
 
 LinkedIn:
-linkedin.com/in/rutuja-rd
+https://linkedin.com/in/rutuja-rd
 
 GitHub:
-github.com/rutujad9
+https://github.com/rutujad9
