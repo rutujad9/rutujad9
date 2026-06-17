@@ -49,7 +49,7 @@ LLMs • Retrieval-Augmented Generation (RAG) • Agentic AI • Prompt Engineer
 
 ### AI & Machine Learning
 
-LangChain • Hugging Face • Sentence Transformers • ChromaDB • DeepEval
+OpenAI • Ollama • LangChain • Hugging Face • Sentence Transformers • ChromaDB • DeepEval
 
 ### Backend Development
 
@@ -65,7 +65,7 @@ Pandas • NumPy • Matplotlib • Streamlit
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
 ## 🤖 Enterprise Agentic AI Evaluator
 
@@ -99,21 +99,6 @@ https://github.com/rutujad9/local-rag-document-assistant
 
 ---
 
-## 📊 Amazon Product Reviews Analysis
-
-Large-scale NLP project analyzing **500k+ Amazon reviews** for sentiment and customer behavior insights.
-
-• Built sentiment classification models achieving **84% accuracy**
-
-• Performed large-scale text preprocessing, feature engineering, and exploratory analysis
-
-• Investigated rating-text inconsistencies and customer review patterns
-
-Repo:
-https://github.com/rutujad9/amazon-product-reviews-analysis
-
----
-
 ## 🏦 FastAPI Banking API
 
 Backend banking service built with FastAPI and modern API development practices.
@@ -126,6 +111,21 @@ Backend banking service built with FastAPI and modern API development practices.
 
 Repo:
 https://github.com/rutujad9/fastapi-banking-api
+
+---
+
+## 📊 Amazon Product Reviews Analysis
+
+Large-scale NLP project analyzing **500k+ Amazon reviews** for sentiment and customer behavior insights.
+
+• Built sentiment classification models achieving **84% accuracy**
+
+• Performed large-scale text preprocessing, feature engineering, and exploratory analysis
+
+• Investigated rating-text inconsistencies and customer review patterns
+
+Repo:
+https://github.com/rutujad9/amazon-product-reviews-analysis
 
 ---
 
@@ -150,7 +150,7 @@ https://github.com/rutujad9/banking-devops-pipeline
 
 • Applied AI Engineer
 
-• GenAI & LLM Engineering
+• Generative AI & LLM Engineering
 
 • Agentic AI Systems
 
@@ -184,4 +184,3 @@ https://github.com/rutujad9
 
 Always happy to connect with fellow developers, AI enthusiasts, and professionals working on LLM systems, AI engineering, and applied AI.
 
----
