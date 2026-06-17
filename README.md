@@ -69,15 +69,13 @@ Pandas • NumPy • Matplotlib • Streamlit
 
 ## 🤖 Enterprise Agentic AI Evaluator
 
-Production-style platform for **LLM evaluation, benchmarking, reliability monitoring, and AI observability.**
+**Production AI Evaluation & Observability Platform** for benchmarking and reliability analysis across local and cloud LLMs.
 
-• Multi-agent evaluation pipeline with worker, quality, and safety judges
+• Developed a **multi-agent evaluation pipeline** with worker, quality, and safety judges for LLM reliability assessment
 
-• Benchmarked OpenAI and Ollama models using a 50-case adversarial evaluation suite
+• Benchmarked **GPT-4o-mini, Mistral, Phi3, and Llama3.2** using a **50-case adversarial benchmark suite**, achieving **86% accuracy** with GPT-4o-mini and **78% accuracy** with Mistral
 
-• Integrated DeepEval, MLflow, Pydantic validation, GitHub Actions CI, and Streamlit observability dashboards
-
-• Achieved **86% benchmark accuracy** with GPT-4o-mini and **78% benchmark accuracy** with Mistral
+• Integrated **DeepEval, MLflow, Pydantic validation, GitHub Actions quality gates, and Streamlit observability dashboards**
 
 Repo:
 https://github.com/rutujad9/EnterpriseAgenticAIEvaluator
@@ -86,31 +84,16 @@ https://github.com/rutujad9/EnterpriseAgenticAIEvaluator
 
 ## 📄 Local RAG Document Assistant
 
-Fully local Retrieval-Augmented Generation (RAG) system for querying PDF documents using semantic search and reranking.
+Production-style **Retrieval-Augmented Generation (RAG)** system using semantic retrieval, reranking, and a local LLM.
 
-• Achieved **100% Top-1 and Top-3 retrieval accuracy** on evaluation queries
+• Achieved **100% Top-1 and Top-3 retrieval accuracy** through evaluation-driven optimization and benchmarking
 
-• Reduced response latency by **86.29%** through caching optimization
+• Reduced query latency by **86.29%** through caching and retrieval pipeline optimizations
 
-• Implemented semantic retrieval, CrossEncoder reranking, and local LLM inference
+• Implemented **CrossEncoder reranking** and **source-grounded citations** to improve retrieval relevance and answer reliability
 
 Repo:
 https://github.com/rutujad9/local-rag-document-assistant
-
----
-
-## 🏦 FastAPI Banking API
-
-Backend banking service built with FastAPI and modern API development practices.
-
-• Developed REST APIs for account management and transaction processing
-
-• Implemented request validation using Pydantic models
-
-• Integrated automatic OpenAPI / Swagger documentation
-
-Repo:
-https://github.com/rutujad9/fastapi-banking-api
 
 ---
 
@@ -129,6 +112,21 @@ https://github.com/rutujad9/amazon-product-reviews-analysis
 
 ---
 
+## 🏦 FastAPI Banking API
+
+Backend banking service built with FastAPI and modern API development practices.
+
+• Developed REST APIs for account management and transaction processing
+
+• Implemented request validation using Pydantic models
+
+• Integrated automatic OpenAPI / Swagger documentation
+
+Repo:
+https://github.com/rutujad9/fastapi-banking-api
+
+---
+
 ## ⚙️ Banking DevOps Pipeline
 
 CI/CD automation project focused on software quality, testing, and deployment workflows.
@@ -141,36 +139,6 @@ CI/CD automation project focused on software quality, testing, and deployment wo
 
 Repo:
 https://github.com/rutujad9/banking-devops-pipeline
-
----
-
-## 🎯 Career Interests
-
-• AI Engineer
-
-• Applied AI Engineer
-
-• Generative AI & LLM Engineering
-
-• Agentic AI Systems
-
-• AI Evaluation & Reliability
-
-• AI Automation & Workflow Engineering
-
----
-
-## 📚 Currently Exploring
-
-• Agentic AI Systems & Multi-Agent Architectures
-
-• LLM Evaluation, Reliability & Observability
-
-• Production AI Engineering & AI System Design
-
-• Advanced Retrieval-Augmented Generation (RAG)
-
-• Scalable Deployment of AI Applications
 
 ---
 
