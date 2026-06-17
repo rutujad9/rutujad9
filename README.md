@@ -1,69 +1,98 @@
 ## Hi, I'm Rutuja 👋
 
-MSc Informatik student in Germany with a focus on **AI systems, backend development, and DevOps automation.**
+MSc Informatik student in Germany focused on **AI Engineering, LLM Systems, and Reliable AI Applications.**
 
-I enjoy building **LLM applications, scalable APIs, and data-driven systems.**
+I enjoy building **RAG systems, agentic AI workflows, LLM evaluation platforms, and production-oriented AI applications** that emphasize reliability, observability, and measurable performance.
+
+My recent work includes **LLM evaluation and benchmarking, multi-agent systems, retrieval-augmented generation (RAG), AI observability, and backend infrastructure for AI applications.**
 
 ---
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Systems-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Applications-purple?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic-AI-orange?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-LLM-blue?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-purple?style=for-the-badge)
 
 ---
 
-## 🧠 Interests
+## 🚀 Focus Areas
+
+• AI Engineering & Production AI Systems
+
+• Large Language Model (LLM) Applications
+
+• LLM Evaluation, Benchmarking & Reliability
 
 • Retrieval-Augmented Generation (RAG)
 
-• Large Language Model Systems
+• Agentic AI & Multi-Agent Systems
 
-• Backend API Development
+• AI Observability & Monitoring
 
-• DevOps & CI/CD Pipelines
+• Backend Development for AI Applications
 
-• Data Analysis & NLP
+• DevOps, CI/CD & AI Deployment Workflows
 
 ---
 
 ## 🛠 Tech Stack
 
-## Languages
+### Languages
 
 Python • SQL
 
-## AI / Machine Learning
+### AI Engineering
 
-LangChain • HuggingFace • Sentence Transformers • ChromaDB
+LLMs • Retrieval-Augmented Generation (RAG) • Agentic AI • Prompt Engineering • LLM Evaluation • Benchmarking • AI Observability
 
-## Backend
+### AI & Machine Learning
 
-FastAPI • REST APIs
+LangChain • Hugging Face • Sentence Transformers • ChromaDB • DeepEval
 
-## DevOps
+### Backend Development
 
-Docker • CI/CD • GitHub Actions
+FastAPI • REST APIs • Pydantic • SQLite
 
-## Data Analysis
+### DevOps & Reliability
 
-Pandas • NumPy • Matplotlib
+Docker • GitHub Actions • CI/CD • MLflow
+
+### Data & Analytics
+
+Pandas • NumPy • Matplotlib • Streamlit
 
 ---
 
 ## 🚀 Featured Projects
 
+## 🤖 Enterprise Agentic AI Evaluator
+
+Production-style platform for **LLM evaluation, benchmarking, reliability monitoring, and AI observability.**
+
+• Multi-agent evaluation pipeline with worker, quality, and safety judges
+
+• Benchmarked OpenAI and Ollama models using a 50-case adversarial evaluation suite
+
+• Integrated DeepEval, MLflow, Pydantic validation, GitHub Actions CI, and Streamlit observability dashboards
+
+• Achieved **86% benchmark accuracy** with GPT-4o-mini and **78% benchmark accuracy** with Mistral
+
+Repo:
+https://github.com/rutujad9/EnterpriseAgenticAIEvaluator
+
+---
+
 ## 📄 Local RAG Document Assistant
 
-A fully local **Retrieval-Augmented Generation** system for querying PDF documents.
+Fully local Retrieval-Augmented Generation (RAG) system for querying PDF documents using semantic search and reranking.
 
-• **100%** Top-1 and Top-3  retrieval accuracy on evaluation queries
+• Achieved **100% Top-1 and Top-3 retrieval accuracy** on evaluation queries
 
-• **86.29%** latency reduction through caching optimization
+• Reduced response latency by **86.29%** through caching optimization
 
-• CrossEncoder reranking for improved retrieval relevance
+• Implemented semantic retrieval, CrossEncoder reranking, and local LLM inference
 
 Repo:
 https://github.com/rutujad9/local-rag-document-assistant
@@ -72,11 +101,13 @@ https://github.com/rutujad9/local-rag-document-assistant
 
 ## 📊 Amazon Product Reviews Analysis
 
-Large-scale NLP project analyzing **500k+ Amazon reviews**.
+Large-scale NLP project analyzing **500k+ Amazon reviews** for sentiment and customer behavior insights.
 
-• Sentiment prediction model with **84% accuracy**  
+• Built sentiment classification models achieving **84% accuracy**
 
-• Rating–text discrepancy analysis  
+• Performed large-scale text preprocessing, feature engineering, and exploratory analysis
+
+• Investigated rating-text inconsistencies and customer review patterns
 
 Repo:
 https://github.com/rutujad9/amazon-product-reviews-analysis
@@ -85,13 +116,13 @@ https://github.com/rutujad9/amazon-product-reviews-analysis
 
 ## 🏦 FastAPI Banking API
 
-Backend banking service built with **FastAPI.**
+Backend banking service built with FastAPI and modern API development practices.
 
-• REST API for account management and transactions
+• Developed REST APIs for account management and transaction processing
 
-• Request validation with Pydantic models
+• Implemented request validation using Pydantic models
 
-• Automatic Swagger API documentation
+• Integrated automatic OpenAPI / Swagger documentation
 
 Repo:
 https://github.com/rutujad9/fastapi-banking-api
@@ -100,34 +131,57 @@ https://github.com/rutujad9/fastapi-banking-api
 
 ## ⚙️ Banking DevOps Pipeline
 
-CI/CD pipeline for automating application deployment.
+CI/CD automation project focused on software quality, testing, and deployment workflows.
 
-• Implemented a **CI pipeline using Jenkins** for automated build and testing
+• Built automated CI pipelines using Jenkins
 
-• Integrated **JUnit for testing, PIT for mutation testing, and SpotBugs for static analysis**
+• Integrated JUnit, PIT mutation testing, and SpotBugs static analysis
 
-• Structured pipeline workflows for **build, test, and reporting, using GitHub for version control and collaboration**
- 
+• Designed automated build, test, and reporting workflows using GitHub version control
 
 Repo:
 https://github.com/rutujad9/banking-devops-pipeline
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Career Interests
 
-• Advanced LLM applications
+• AI Engineer
 
-• Scalable AI system design
+• Applied AI Engineer
 
-• Cloud deployment of AI services
+• GenAI & LLM Engineering
+
+• Agentic AI Systems
+
+• AI Evaluation & Reliability
+
+• AI Automation & Workflow Engineering
+
+---
+
+## 📚 Currently Exploring
+
+• Agentic AI Systems & Multi-Agent Architectures
+
+• LLM Evaluation, Reliability & Observability
+
+• Production AI Engineering & AI System Design
+
+• Advanced Retrieval-Augmented Generation (RAG)
+
+• Scalable Deployment of AI Applications
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn:
+LinkedIn
 https://linkedin.com/in/rutuja-rd
 
-GitHub:
+GitHub
 https://github.com/rutujad9
+
+Always happy to connect with fellow developers, AI enthusiasts, and professionals working on LLM systems, AI engineering, and applied AI.
+
+---
